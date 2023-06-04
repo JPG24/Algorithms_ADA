@@ -1,0 +1,13 @@
+﻿  BranchAndBound.cpp
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(41,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(126,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(159,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(276,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(301,39): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\GraphApplication\BranchAndBound.cpp(455,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  4 of 2772 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  GraphApplication.vcxproj -> C:\Users\areny\Desktop\pada\SalesMan V13 (1)\GraphApplication\x64\Release\GraphApplication.exe
